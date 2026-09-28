@@ -5,8 +5,13 @@ console.log('Seja bem-vindo');
 ### UM POUCO SOBRE MIM
 ---
 
-* 💻 Analista Pleno de SRE & Cloud Infrastructure.
-* 🚀 Experiência com AWS, Azure, Kubernetes, automação e arquiteturas resilientes.
+<p align="left">
+  <img src="https://www.google.com/s2/favicons?sz=128&domain=pottencial.com.br" width="22" align="center" alt="Pottencial"/>
+  <b>Atualmente:</b> Analista Pleno de SRE na <b>Pottencial Seguradora</b>.
+</p>
+
+* 💻 Focado em Cloud Infrastructure, SRE e Automação.
+* 🚀 Experiência consolidada com AWS, Azure, Kubernetes e arquiteturas de missão crítica e alta disponibilidade.
 
 <br>
 
