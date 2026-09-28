@@ -23,7 +23,7 @@ console.log('Seja bem-vindo');
 
 ### Redes sociais
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nicolas-goncalves-pereira)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-goncalves-pereira/)
 
 <br>
 
