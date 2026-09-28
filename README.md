@@ -119,12 +119,8 @@ console.log('Seja bem-vindo');
 ### ESTATÍSTICAS DO GITHUB
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=NicolasBR0123&theme=tokyonight&no-frame=true&margin-w=15" alt="Troféus do Nicolas" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasBR0123&show_icons=true&theme=tokyonight&locale=pt-pt" alt="Estatísticas do GitHub" height="192" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBR0123&layout=compact&theme=tokyonight&locale=pt-pt" alt="Linguagens Mais Usadas" height="192" />
+  <img src="https://github-stats-extended.vercel.app/api?username=NicolasBR0123&show_icons=true&theme=tokyonight&locale=pt-pt" alt="Estatísticas do GitHub" height="192" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NicolasBR0123&layout=compact&theme=tokyonight&locale=pt-pt" alt="Linguagens Mais Usadas" height="192" />
 </p>
 
 ### Redes sociais
