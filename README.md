@@ -1,9 +1,13 @@
-```javascript
-console.log('Seja bem-vindo');
-```
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2671E5&center=false&vCenter=true&width=800&lines=console.log('Seja+bem-vindo!');;Iniciando+servi%C3%A7os+de+SRE...;Verificando+status+dos+clusters+Kubernetes...;Infraestrutura+provisionada+com+sucesso!+[200+OK]" alt="Typing SVG" />
+  </a>
+</div>
 
 ### UM POUCO SOBRE MIM
 ---
+
+<img align="right" src="https://raw.githubusercontent.com/platini85/platini85/master/assets/dev.gif" width="220" alt="Animação Programador" />
 
 <p align="left">
   <img src="https://www.google.com/s2/favicons?sz=128&domain=pottencial.com.br" width="22" align="center" alt="Pottencial"/>
@@ -12,8 +16,9 @@ console.log('Seja bem-vindo');
 
 * 💻 Focado em Cloud Infrastructure, SRE e Automação.
 * 🚀 Experiência consolidada com AWS, Azure, Kubernetes e arquiteturas de missão crítica e alta disponibilidade.
+* ⚙️ Especialista em observabilidade, monitoramento e criação de pipelines CI/CD.
 
-<br>
+<br><br>
 
 ### EXPERIÊNCIA PROFISSIONAL
 ---
@@ -123,9 +128,10 @@ console.log('Seja bem-vindo');
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NicolasBR0123&layout=compact&theme=tokyonight&locale=pt-pt" alt="Linguagens Mais Usadas" height="192" />
 </p>
 
-### Redes sociais
+### Redes sociais & Visitas
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-goncalves-pereira/)
+![Visitas](https://komarev.com/ghpvc/?username=NicolasBR0123&label=VISITAS+NO+PERFIL&color=2671E5&style=for-the-badge)
 
 <br>
 
